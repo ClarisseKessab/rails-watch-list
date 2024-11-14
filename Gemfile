@@ -60,3 +60,13 @@ group :development do
   # gem "spring"
 end
 
+# Gem Bootstrap
+gem "bootstrap", "~> 5.2"
+# Gem AutoPrefixer
+gem "autoprefixer-rails"
+# Gem Font Awesome
+gem "font-awesome-sass", "~> 6.1"
+# Gem Simple Form
+gem "simple_form"
+# Gem SCSS
+gem "sassc-rails"
